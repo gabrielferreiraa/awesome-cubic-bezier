@@ -18,8 +18,5 @@ or
 ```
 transform: cubic-bezier(.57, .21, .69, 1.25);
 ```
-or
-```html
-<div class="acb type-2"></div>
-```
-[See it]() :heart_eyes:
+![type-1](https://raw.githubusercontent.com/gabrielferreiraa/awesome-cubic-bezier/master/examples/type-1.gif)
+[See it on Codepen](https://codepen.io/gabrielferreira/full/RBbmRy/) :heart_eyes:
